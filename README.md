@@ -1,6 +1,8 @@
 # e-commerce-project
 A team project focused on creating a fictional e-commerce online platform focused on selling merchandise.
 
+Start date: 8th May 2025
+
 ## 🛠 Tech Stack
 - **Frontend**:
 - **Backend**:
